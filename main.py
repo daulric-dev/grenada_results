@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; research-bot/1.0)"}
-KNOWN_ELECTION_YEARS = [1984, 1990, 1995, 1999, 2003, 2008, 2013, 2018, 2022, 2026]
+KNOWN_ELECTION_YEARS = [1984, 1990, 1995, 1999, 2003, 2008, 2013, 2018, 2022, 2027]
 
 
 def wiki_url(year: int) -> str:
