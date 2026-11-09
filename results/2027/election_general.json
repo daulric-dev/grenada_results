@@ -1,0 +1,62 @@
+{
+  "election": "2027 Grenadian General Election",
+  "year": 2027,
+  "results": [
+    {
+      "party": "National Democratic Congress",
+      "votes": 37369,
+      "percentage": 61.0,
+      "seats": 14,
+      "change": "+5"
+    },
+    {
+      "party": "New National Party",
+      "votes": 22567,
+      "percentage": 36.84,
+      "seats": 1,
+      "change": "–5"
+    },
+    {
+      "party": "Democratic People's Movement",
+      "votes": 1189,
+      "percentage": 1.94,
+      "seats": 0,
+      "change": "New"
+    },
+    {
+      "party": "People's National Party",
+      "votes": 69,
+      "percentage": 0.11,
+      "seats": 0,
+      "change": "New"
+    },
+    {
+      "party": "Grenada United Labour Party",
+      "votes": 34,
+      "percentage": 0.06,
+      "seats": 0,
+      "change": "0"
+    },
+    {
+      "party": "Grenada Social Democratic Party",
+      "votes": 27,
+      "percentage": 0.04,
+      "seats": 0,
+      "change": "New"
+    },
+    {
+      "party": "Change of Hope for Grenada Carriacou & Petite Martinique",
+      "votes": 5,
+      "percentage": 0.01,
+      "seats": 0,
+      "change": "New"
+    },
+    {
+      "party": "Grenada Renaissance Party",
+      "votes": 4,
+      "percentage": 0.01,
+      "seats": 0,
+      "change": "0"
+    }
+  ]
+}
